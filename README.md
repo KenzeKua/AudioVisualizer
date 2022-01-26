@@ -29,7 +29,7 @@ Octave 8 (7902.133) = [92] - [184]
 Not all frequencies were used for this audio visualizer. I based it around 1 base note on the maximum piano frequency range.  
 How I calculated this audio visualizer is by using a spectrum array size of 512.  
 This can be higher but requires adjustment to the bulk of the programmingg since it was customize for size 512.  
-After using FMOD to collect the frequencies, I later divided it into 8 octaves of sounds.  
-The octaves ranges between 30 Hz to 7900 Hz. The 8 octaves are then divided between 18 bars and averaged out for certain bars.  
+After using FMOD to collect the frequencies, I later divided it into 9 octaves of sounds.  
+The octaves ranges between 30 Hz to 7900 Hz. The 9 octaves are then divided between 18 bars and averaged out for certain bars.  
 This creates a smooth transition between the bars allowing it to give a smoother shape.  
   
