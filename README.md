@@ -7,10 +7,10 @@ If there are any queries or questions, you may contact the owner of this reposit
 Main music used: supapao - HEAVYLIGHT
 Please ignore the other mp3 files as they are only used for educational purposes.
 
-== Instructions == 
+== Instructions ==  
 • Connect the linkers to the SDKs: gles2, glfw 3.3, and FmodEx  
-• Main programming will be in main.cpp 
-• triangle_demo.h handles most of the shapes being displayed and the FMOD calculations
+• Main programming will be in main.cpp  
+• triangle_demo.h handles most of the shapes being displayed and the FMOD calculations  
 
 == Division of Sound Frequency == 
 1 array = 43.06640625 Hz (22 050 Hz / 512 sample size) 
