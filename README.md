@@ -7,21 +7,21 @@ If there are any queries or questions, you may contact the owner of this reposit
 Main music used: supapao - HEAVYLIGHT
 Please ignore the other mp3 files as they are only used for educational purposes.
 
-== Instructions ==
-• Connect the linkers to the SDKs: gles2, glfw 3.3, and FmodEx 
-• Main programming will be in main.cpp
+== Instructions == 
+• Connect the linkers to the SDKs: gles2, glfw 3.3, and FmodEx  
+• Main programming will be in main.cpp 
 • triangle_demo.h handles most of the shapes being displayed and the FMOD calculations
 
-== Division of Sound Frequency ==
-1 array = 43.06640625 Hz (22 050 Hz / 512 sample size) 
-Note of B in each octave in brackets 
-Octave 0 (30.86771) = [0] 
-Octave 1 (61.73541) = [1] 
-Octave 2 (123.4708) = [2] 
-Octave 3 (246.9417) = [3] - [5] 
-Octave 4 (493.8833) = [6] - [13] 
-Octave 5 (987.7666) = [14] - [24] 
-Octave 6 (1975.533) = [25] - [47] 
+== Division of Sound Frequency == 
+1 array = 43.06640625 Hz (22 050 Hz / 512 sample size)  
+Note of B in each octave in brackets  
+Octave 0 (30.86771) = [0]  
+Octave 1 (61.73541) = [1]  
+Octave 2 (123.4708) = [2]  
+Octave 3 (246.9417) = [3] - [5]  
+Octave 4 (493.8833) = [6] - [13]  
+Octave 5 (987.7666) = [14] - [24]  
+Octave 6 (1975.533) = [25] - [47]  
 Octave 7 (3951.066) = [48] - [91] 
 Octave 8 (7902.133) = [92] - [184]
 
