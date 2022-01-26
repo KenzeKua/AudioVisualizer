@@ -4,7 +4,7 @@ C++ audio visualizer made with OpenGL and FMOD Ex.
 This application is made by Kenze Kua as a student, and is non-commercial. 
 If there are any queries or questions, you may contact the owner of this repository or via kenzekua+github@gmail.com
 
-Main music used: supapao - HEAVYLIGHT
+Main music used: supapao - HEAVYLIGHT  
 Please ignore the other mp3 files as they are only used for educational purposes.
 
 == Instructions ==  
