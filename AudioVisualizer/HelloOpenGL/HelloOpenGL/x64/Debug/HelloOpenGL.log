@@ -1,0 +1,55 @@
+﻿  main.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\valued user\downloads\sdk\glfw-3.3.bin.win32\include\glfw\glfw3.h(104): note: see previous definition of 'APIENTRY'
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\vector.h(141): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\matrix.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\matrix.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(248): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(249): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(250): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(254): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(255): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(256): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(260): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(261): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(262): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(265): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(266): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(267): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(292): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(293): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(294): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(297): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(298): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(299): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(334): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(340): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(346): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(347): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(353): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(359): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(382): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(388): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(394): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(395): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(401): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\triangle_demo.h(407): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\main.cpp(39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\main.cpp(40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\main.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\main.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\valued user\documents\kdu\september 2019\graphics programming\helloopengl\helloopengl\helloopengl\main.cpp(46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+main.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetWindowSizeCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetInputMode referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwGetKey referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSetCursorPosCallback referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+main.obj : error LNK2019: unresolved external symbol glfwSwapInterval referenced in function main
+C:\Users\Valued User\Downloads\SDK\glfw-3.3.bin.WIN32\lib-vc2017\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Valued User\Documents\KDU\September 2019\Graphics Programming\HelloOpenGL\HelloOpenGL\x64\Debug\HelloOpenGL.exe : fatal error LNK1120: 12 unresolved externals
