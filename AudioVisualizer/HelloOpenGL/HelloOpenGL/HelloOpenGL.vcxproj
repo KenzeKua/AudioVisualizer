@@ -85,8 +85,8 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\lib-vc2019;$(LibraryPath)</LibraryPath>
+    <IncludePath>D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\glfw-3.3.6.bin.WIN32\include;$(IncludePath)</IncludePath>
+    <LibraryPath>D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\glfw-3.3.6.bin.WIN32\lib-vc2019;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
@@ -95,7 +95,7 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
-    <IncludePath>D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\include;$(IncludePath)</IncludePath>
+    <IncludePath>D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\glfw-3.3.6.bin.WIN32\include;$(IncludePath)</IncludePath>
     <LibraryPath>D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\lib-vc2019;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -107,13 +107,13 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Download Favourites\SDK\gles2-starter-win32;D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\include;D:\Download Favourites\SDK\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\gles2-starter-win32;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\glfw-3.3.6.bin.WIN32\include;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
       <AdditionalDependencies>opengl32.lib;glu32.lib;glfw3.lib;fmodex_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
-      <AdditionalLibraryDirectories>D:\Download Favourites\SDK\gles2-starter-win32;D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\lib-vc2019;D:\Download Favourites\SDK\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\gles2-starter-win32;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\glfw-3.3.6.bin.WIN32\lib-vc2019;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -137,14 +137,14 @@
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <AdditionalIncludeDirectories>D:\Download Favourites\SDK\gles2-starter-win32;D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\include;D:\Download Favourites\SDK\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\gles2-starter-win32;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\glfw-3.3.6.bin.WIN32\include;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\FmodEx\api\inc;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <SubSystem>Console</SubSystem>
-      <AdditionalLibraryDirectories>D:\Download Favourites\SDK\gles2-starter-win32;D:\Download Favourites\SDK\glfw-3.3.bin.WIN32\lib-vc2019;D:\Download Favourites\SDK\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalLibraryDirectories>D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\gles2-starter-win32;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\glfw-3.3.6.bin.WIN32\lib-vc2019;D:\KDU\[Dated] 2019-9\Graphics Programming\gitClone\AudioVisualizer\FmodEx\api\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
       <AdditionalDependencies>opengl32.lib;glu32.lib;glfw3.lib;fmodex_vc.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
