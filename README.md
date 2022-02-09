@@ -14,6 +14,15 @@ Please ignore the other mp3 files as they are only used for educational purposes
 • Main programming will be in main.cpp  
 • triangle_demo.h handles most of the shapes being displayed and the FMOD calculations  
 
+== Controls ==
+Mouse - Look direction
+W - Move forward
+S - Move backward
+A - Move left
+D - Mpve right
+Q - Move up
+E - Move down
+
 == Division of Sound Frequency ==  
 1 array = 43.06640625 Hz (22 050 Hz / 512 sample size)  
 Note of B in each octave in brackets  
