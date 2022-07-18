@@ -14,7 +14,7 @@ Please ignore the other mp3 files as they are only used for educational purposes
 • Main programming will be in main.cpp  
 • triangle_demo.h handles most of the shapes being displayed and the FMOD calculations  
 
-== Controls ==
+== Controls ==  
 Mouse - Look direction
 W - Move forward
 S - Move backward
