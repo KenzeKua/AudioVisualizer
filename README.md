@@ -10,6 +10,7 @@ Main music used: supapao - HEAVYLIGHT
 Please ignore the other mp3 files as they are only used for educational purposes.
 
 == Instructions ==  
+• Set to Debug x86
 • Connect the linkers to the SDKs: gles2, glfw 3.3, and FmodEx  
 • Main programming will be in main.cpp  
 • triangle_demo.h handles most of the shapes being displayed and the FMOD calculations  
