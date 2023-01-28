@@ -7,7 +7,9 @@ If there are any queries or questions, you may contact the owner of this reposit
 This project not only serves as an audio visualizer. Inside you will also find a vertex trainer for drawing Pokemons!  
 
 Main music used: supapao - HEAVYLIGHT  
-Please ignore the other mp3 files as they are only used for educational purposes.
+Other mp3 files as are used for educational purposes.
+
+Itch.Io : https://caynyian.itch.io/opengl-audio-visualiser
 
 == Instructions ==  
 • Set to Debug x86  
